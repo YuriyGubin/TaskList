@@ -13,7 +13,6 @@
 		6A62A3E1292A59E000C9C514 /* TaskList.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6A62A3DF292A59E000C9C514 /* TaskList.xcdatamodeld */; };
 		6A62A3E3292A59E200C9C514 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6A62A3E2292A59E200C9C514 /* Assets.xcassets */; };
 		6A62A3E6292A59E200C9C514 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6A62A3E4292A59E200C9C514 /* LaunchScreen.storyboard */; };
-		6A62A3EE292A618E00C9C514 /* TaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A62A3ED292A618E00C9C514 /* TaskViewController.swift */; };
 		6A62A3F0292A701500C9C514 /* StorageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A62A3EF292A701500C9C514 /* StorageManager.swift */; };
 /* End PBXBuildFile section */
 
@@ -26,7 +25,6 @@
 		6A62A3E2292A59E200C9C514 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6A62A3E5292A59E200C9C514 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6A62A3E7292A59E200C9C514 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		6A62A3ED292A618E00C9C514 /* TaskViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskViewController.swift; sourceTree = "<group>"; };
 		6A62A3EF292A701500C9C514 /* StorageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -63,7 +61,6 @@
 				6A62A3D6292A59E000C9C514 /* AppDelegate.swift */,
 				6A62A3D8292A59E000C9C514 /* SceneDelegate.swift */,
 				6A62A3DA292A59E000C9C514 /* TaskListViewController.swift */,
-				6A62A3ED292A618E00C9C514 /* TaskViewController.swift */,
 				6A62A3EF292A701500C9C514 /* StorageManager.swift */,
 				6A62A3E2292A59E200C9C514 /* Assets.xcassets */,
 				6A62A3E4292A59E200C9C514 /* LaunchScreen.storyboard */,
@@ -145,7 +142,6 @@
 			files = (
 				6A62A3E1292A59E000C9C514 /* TaskList.xcdatamodeld in Sources */,
 				6A62A3DB292A59E000C9C514 /* TaskListViewController.swift in Sources */,
-				6A62A3EE292A618E00C9C514 /* TaskViewController.swift in Sources */,
 				6A62A3F0292A701500C9C514 /* StorageManager.swift in Sources */,
 				6A62A3D7292A59E000C9C514 /* AppDelegate.swift in Sources */,
 				6A62A3D9292A59E000C9C514 /* SceneDelegate.swift in Sources */,
